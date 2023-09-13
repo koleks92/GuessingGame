@@ -9,8 +9,8 @@ function Title({children}) {
 
 const styles = StyleSheet.create({
     title: {
-        fontFamily: 'open-sans-bold',
-        fontSize: 18,
+        fontFamily: 'OpenSansBold',
+        fontSize: 24,
         color: 'white',
         textAlign: 'center',
         padding: 12,
